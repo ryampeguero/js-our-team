@@ -52,7 +52,7 @@ for (let i = 0; i < members.length; i++) {
     let roleElem = printArray(element);
    
         cards += `
-        <div class="col">
+        <div class="col-4 mb-5">
             <div class="card" style="width: 18rem;">
                 <img src='./img/${element.image}' class="card-img-top" alt="...">
 
